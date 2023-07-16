@@ -1,4 +1,4 @@
-%{Ex-03,,Ex Name- Waveform generation for Continous signal.}
+%{Ex-03,,Ex Name- Waveform generation for Continous signal.} 
 
 %unit impulse signal (1)
 clc;
