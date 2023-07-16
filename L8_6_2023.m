@@ -1,4 +1,4 @@
-%{Ex-02,,Ex Name- Generate & perform basic operation on matrixes using MATLAB.}
+%{Ex-02,,Ex Name- Generate & perform basic operation on matrixes using MATLAB.} 
 
 a=[0 0 0 2; 1 0 4 0; 1 0 2 0; 2 2 0 7]
 b=[7 0 2 2; 0 2 0 1; 0 4 0 1; 2 0 0 0] 
